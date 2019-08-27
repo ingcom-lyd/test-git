@@ -3,5 +3,6 @@ public class Test {
         System.out.println("commit");
         System.out.println("update");
 	System.out.println("2 update");
+        System.out.println("3 update");
     }
 }
